@@ -6,8 +6,7 @@
    여행을 편하게 즐길 수 있는 숙소와 액티비티와 원데이 클래스로 제주도의 문화와 추억을 쌓을 수 있게 해주는 서비스의 사이트
 
    - 역할 :  주변소개/부대시설 파트 담당 - google map을 활용한 주변소개, 부대시설 소개 <br>
-　　　　       
-<br><br>               
+　　　　                  
 ### 2.소스코드
   * [model](/MeRoom/src/main/java/com/spring/mr/vo/)
   * [view](/MeRoom/src/main/webapp/views/)
